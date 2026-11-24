@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Sognecharge
+## Notes: One button smart charge og intercept for Warrior
+## Author: Sogne
+## Version: 1.0
+
+Sognecharge.lua
